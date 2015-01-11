@@ -8,13 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		535B31F61A62FB0200179B5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B31F51A62FB0200179B5B /* AppDelegate.swift */; };
-		535B31F81A62FB0200179B5B /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 535B31F71A62FB0200179B5B /* GameScene.sks */; };
 		535B31FA1A62FB0200179B5B /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B31F91A62FB0200179B5B /* GameScene.swift */; };
 		535B31FC1A62FB0200179B5B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B31FB1A62FB0200179B5B /* GameViewController.swift */; };
 		535B31FF1A62FB0200179B5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 535B31FD1A62FB0200179B5B /* Main.storyboard */; };
 		535B32011A62FB0200179B5B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 535B32001A62FB0200179B5B /* Images.xcassets */; };
 		535B32041A62FB0200179B5B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 535B32021A62FB0200179B5B /* LaunchScreen.xib */; };
 		535B32101A62FB0200179B5B /* BrandikiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535B320F1A62FB0200179B5B /* BrandikiTests.swift */; };
+		535B32291A6304AB00179B5B /* carrot left.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B321F1A6304AB00179B5B /* carrot left.png */; };
+		535B32331A63080D00179B5B /* broccoli.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B32321A63080D00179B5B /* broccoli.png */; };
+		535B32411A630C1C00179B5B /* carrot right.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B32371A630C1C00179B5B /* carrot right.png */; };
+		535B32421A630C1C00179B5B /* Dark wizard.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B32381A630C1C00179B5B /* Dark wizard.png */; };
+		535B32441A630C1C00179B5B /* fire breathing bird.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B323A1A630C1C00179B5B /* fire breathing bird.png */; };
+		535B32451A630C1C00179B5B /* good wizard.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B323B1A630C1C00179B5B /* good wizard.png */; };
+		535B32461A630C1C00179B5B /* ice ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B323C1A630C1C00179B5B /* ice ball.png */; };
+		535B32471A630C1C00179B5B /* sword.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B323D1A630C1C00179B5B /* sword.png */; };
+		535B324A1A630C9A00179B5B /* brandiki-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B32481A630C9A00179B5B /* brandiki-1.png */; };
+		535B324B1A630C9A00179B5B /* evil knight-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 535B32491A630C9A00179B5B /* evil knight-1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,7 +40,6 @@
 		535B31F01A62FB0200179B5B /* Brandiki.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Brandiki.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		535B31F41A62FB0200179B5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		535B31F51A62FB0200179B5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		535B31F71A62FB0200179B5B /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		535B31F91A62FB0200179B5B /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		535B31FB1A62FB0200179B5B /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		535B31FE1A62FB0200179B5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,6 +48,16 @@
 		535B32091A62FB0200179B5B /* BrandikiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrandikiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		535B320E1A62FB0200179B5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		535B320F1A62FB0200179B5B /* BrandikiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandikiTests.swift; sourceTree = "<group>"; };
+		535B321F1A6304AB00179B5B /* carrot left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "carrot left.png"; sourceTree = "<group>"; };
+		535B32321A63080D00179B5B /* broccoli.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = broccoli.png; sourceTree = "<group>"; };
+		535B32371A630C1C00179B5B /* carrot right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "carrot right.png"; sourceTree = "<group>"; };
+		535B32381A630C1C00179B5B /* Dark wizard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dark wizard.png"; sourceTree = "<group>"; };
+		535B323A1A630C1C00179B5B /* fire breathing bird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fire breathing bird.png"; sourceTree = "<group>"; };
+		535B323B1A630C1C00179B5B /* good wizard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "good wizard.png"; sourceTree = "<group>"; };
+		535B323C1A630C1C00179B5B /* ice ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ice ball.png"; sourceTree = "<group>"; };
+		535B323D1A630C1C00179B5B /* sword.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sword.png; sourceTree = "<group>"; };
+		535B32481A630C9A00179B5B /* brandiki-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brandiki-1.png"; sourceTree = "<group>"; };
+		535B32491A630C9A00179B5B /* evil knight-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "evil knight-1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +81,7 @@
 		535B31E71A62FB0200179B5B = {
 			isa = PBXGroup;
 			children = (
+				535B321D1A6304AB00179B5B /* spr1tes */,
 				535B31F21A62FB0200179B5B /* Brandiki */,
 				535B320C1A62FB0200179B5B /* BrandikiTests */,
 				535B31F11A62FB0200179B5B /* Products */,
@@ -82,7 +101,6 @@
 			isa = PBXGroup;
 			children = (
 				535B31F51A62FB0200179B5B /* AppDelegate.swift */,
-				535B31F71A62FB0200179B5B /* GameScene.sks */,
 				535B31F91A62FB0200179B5B /* GameScene.swift */,
 				535B31FB1A62FB0200179B5B /* GameViewController.swift */,
 				535B31FD1A62FB0200179B5B /* Main.storyboard */,
@@ -116,6 +134,24 @@
 				535B320E1A62FB0200179B5B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		535B321D1A6304AB00179B5B /* spr1tes */ = {
+			isa = PBXGroup;
+			children = (
+				535B32481A630C9A00179B5B /* brandiki-1.png */,
+				535B32491A630C9A00179B5B /* evil knight-1.png */,
+				535B32321A63080D00179B5B /* broccoli.png */,
+				535B321F1A6304AB00179B5B /* carrot left.png */,
+				535B32371A630C1C00179B5B /* carrot right.png */,
+				535B32381A630C1C00179B5B /* Dark wizard.png */,
+				535B323A1A630C1C00179B5B /* fire breathing bird.png */,
+				535B323B1A630C1C00179B5B /* good wizard.png */,
+				535B323C1A630C1C00179B5B /* ice ball.png */,
+				535B323D1A630C1C00179B5B /* sword.png */,
+			);
+			name = spr1tes;
+			path = Brandiki/spr1tes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,10 +234,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				535B32441A630C1C00179B5B /* fire breathing bird.png in Resources */,
 				535B32041A62FB0200179B5B /* LaunchScreen.xib in Resources */,
+				535B32331A63080D00179B5B /* broccoli.png in Resources */,
+				535B324B1A630C9A00179B5B /* evil knight-1.png in Resources */,
+				535B324A1A630C9A00179B5B /* brandiki-1.png in Resources */,
 				535B32011A62FB0200179B5B /* Images.xcassets in Resources */,
-				535B31F81A62FB0200179B5B /* GameScene.sks in Resources */,
+				535B32291A6304AB00179B5B /* carrot left.png in Resources */,
+				535B32451A630C1C00179B5B /* good wizard.png in Resources */,
 				535B31FF1A62FB0200179B5B /* Main.storyboard in Resources */,
+				535B32471A630C1C00179B5B /* sword.png in Resources */,
+				535B32411A630C1C00179B5B /* carrot right.png in Resources */,
+				535B32461A630C1C00179B5B /* ice ball.png in Resources */,
+				535B32421A630C1C00179B5B /* Dark wizard.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,6 +391,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Brandiki/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -356,6 +402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Brandiki/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
